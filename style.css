@@ -1,0 +1,24 @@
+html {
+    font-size: 16px;
+    font-family: 'Roboto';
+}
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    color:black
+}
+
+h2 {
+    font-size: 16px;
+
+}
+
+p {
+    max-width: 900px;
+    margin: 0 auto;
+}
