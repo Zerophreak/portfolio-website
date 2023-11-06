@@ -1,0 +1,22 @@
+p {
+    font-family: Arial;
+    color: black;
+    font-size: 12px;
+
+}
+
+h2{
+    font-family: Arial;
+    color: black;
+    font-size: 14px;
+}
+
+head{
+   font-family: Arial; 
+}
+
+nav {
+    font-family:  Arial;
+    font-size: 16px;
+    font-style: bold;
+}
